@@ -1,0 +1,6 @@
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\HelloWorld\bin\Debug\HelloWorld.exe.config
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\HelloWorld\bin\Debug\HelloWorld.exe
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\HelloWorld\bin\Debug\HelloWorld.pdb
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\HelloWorld\obj\Debug\HelloWorld.csprojAssemblyReference.cache
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\HelloWorld\obj\Debug\HelloWorld.exe
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\HelloWorld\obj\Debug\HelloWorld.pdb

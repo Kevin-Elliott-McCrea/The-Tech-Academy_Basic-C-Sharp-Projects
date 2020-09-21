@@ -1,0 +1,6 @@
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\VariablesAndDataTypes_step129.cs\bin\Debug\VariablesAndDataTypes_step129.cs.exe.config
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\VariablesAndDataTypes_step129.cs\bin\Debug\VariablesAndDataTypes_step129.cs.exe
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\VariablesAndDataTypes_step129.cs\bin\Debug\VariablesAndDataTypes_step129.cs.pdb
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\VariablesAndDataTypes_step129.cs\obj\Debug\VariablesAndDataTypes_step129.cs.csprojAssemblyReference.cache
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\VariablesAndDataTypes_step129.cs\obj\Debug\VariablesAndDataTypes_step129.cs.exe
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\VariablesAndDataTypes_step129.cs\obj\Debug\VariablesAndDataTypes_step129.cs.pdb
