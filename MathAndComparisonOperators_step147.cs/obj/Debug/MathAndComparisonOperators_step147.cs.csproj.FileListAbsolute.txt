@@ -1,0 +1,5 @@
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\MathAndComparisonOperators_step147.cs\bin\Debug\MathAndComparisonOperators_step147.cs.exe.config
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\MathAndComparisonOperators_step147.cs\bin\Debug\MathAndComparisonOperators_step147.cs.exe
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\MathAndComparisonOperators_step147.cs\bin\Debug\MathAndComparisonOperators_step147.cs.pdb
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\MathAndComparisonOperators_step147.cs\obj\Debug\MathAndComparisonOperators_step147.cs.exe
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\MathAndComparisonOperators_step147.cs\obj\Debug\MathAndComparisonOperators_step147.cs.pdb

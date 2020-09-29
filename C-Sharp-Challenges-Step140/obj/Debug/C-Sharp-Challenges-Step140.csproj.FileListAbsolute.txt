@@ -1,0 +1,6 @@
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\C-Sharp-Challenges-Step140\bin\Debug\C-Sharp-Challenges-Step140.exe.config
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\C-Sharp-Challenges-Step140\bin\Debug\C-Sharp-Challenges-Step140.exe
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\C-Sharp-Challenges-Step140\bin\Debug\C-Sharp-Challenges-Step140.pdb
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\C-Sharp-Challenges-Step140\obj\Debug\C-Sharp-Challenges-Step140.csprojAssemblyReference.cache
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\C-Sharp-Challenges-Step140\obj\Debug\C-Sharp-Challenges-Step140.exe
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\C-Sharp-Challenges-Step140\obj\Debug\C-Sharp-Challenges-Step140.pdb
