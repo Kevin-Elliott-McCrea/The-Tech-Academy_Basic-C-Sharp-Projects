@@ -1,0 +1,6 @@
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\Math_Comparison_Operators\bin\Debug\Math_Comparison_Operators.exe.config
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\Math_Comparison_Operators\bin\Debug\Math_Comparison_Operators.exe
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\Math_Comparison_Operators\bin\Debug\Math_Comparison_Operators.pdb
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\Math_Comparison_Operators\obj\Debug\Math_Comparison_Operators.csprojAssemblyReference.cache
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\Math_Comparison_Operators\obj\Debug\Math_Comparison_Operators.exe
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\Math_Comparison_Operators\obj\Debug\Math_Comparison_Operators.pdb
