@@ -1,0 +1,6 @@
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\BooleanLogic_step159\bin\Debug\BooleanLogic_step159.exe.config
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\BooleanLogic_step159\bin\Debug\BooleanLogic_step159.exe
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\BooleanLogic_step159\bin\Debug\BooleanLogic_step159.pdb
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\BooleanLogic_step159\obj\Debug\BooleanLogic_step159.csprojAssemblyReference.cache
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\BooleanLogic_step159\obj\Debug\BooleanLogic_step159.exe
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\BooleanLogic_step159\obj\Debug\BooleanLogic_step159.pdb
