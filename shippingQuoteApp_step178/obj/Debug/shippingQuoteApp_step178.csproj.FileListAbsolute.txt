@@ -1,0 +1,6 @@
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\shippingQuoteApp_step178\bin\Debug\shippingQuoteApp_step178.exe.config
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\shippingQuoteApp_step178\bin\Debug\shippingQuoteApp_step178.exe
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\shippingQuoteApp_step178\bin\Debug\shippingQuoteApp_step178.pdb
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\shippingQuoteApp_step178\obj\Debug\shippingQuoteApp_step178.csprojAssemblyReference.cache
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\shippingQuoteApp_step178\obj\Debug\shippingQuoteApp_step178.exe
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\shippingQuoteApp_step178\obj\Debug\shippingQuoteApp_step178.pdb

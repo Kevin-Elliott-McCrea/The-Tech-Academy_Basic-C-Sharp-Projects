@@ -1,0 +1,6 @@
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\Branching\bin\Debug\Branching.exe.config
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\Branching\bin\Debug\Branching.exe
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\Branching\bin\Debug\Branching.pdb
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\Branching\obj\Debug\Branching.csprojAssemblyReference.cache
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\Branching\obj\Debug\Branching.exe
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\Branching\obj\Debug\Branching.pdb

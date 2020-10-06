@@ -1,0 +1,6 @@
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\ifElse_consoleApp\bin\Debug\ifElse_consoleApp.exe.config
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\ifElse_consoleApp\bin\Debug\ifElse_consoleApp.exe
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\ifElse_consoleApp\bin\Debug\ifElse_consoleApp.pdb
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\ifElse_consoleApp\obj\Debug\ifElse_consoleApp.csprojAssemblyReference.cache
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\ifElse_consoleApp\obj\Debug\ifElse_consoleApp.exe
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\ifElse_consoleApp\obj\Debug\ifElse_consoleApp.pdb
