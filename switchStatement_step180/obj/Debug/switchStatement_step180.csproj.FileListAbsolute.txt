@@ -1,0 +1,6 @@
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\switchStatement_step180\bin\Debug\switchStatement_step180.exe.config
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\switchStatement_step180\bin\Debug\switchStatement_step180.exe
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\switchStatement_step180\bin\Debug\switchStatement_step180.pdb
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\switchStatement_step180\obj\Debug\switchStatement_step180.csprojAssemblyReference.cache
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\switchStatement_step180\obj\Debug\switchStatement_step180.exe
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\switchStatement_step180\obj\Debug\switchStatement_step180.pdb
