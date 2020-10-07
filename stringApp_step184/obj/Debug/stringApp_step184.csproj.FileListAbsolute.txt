@@ -1,0 +1,6 @@
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\stringApp_step184\bin\Debug\stringApp_step184.exe.config
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\stringApp_step184\bin\Debug\stringApp_step184.exe
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\stringApp_step184\bin\Debug\stringApp_step184.pdb
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\stringApp_step184\obj\Debug\stringApp_step184.csprojAssemblyReference.cache
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\stringApp_step184\obj\Debug\stringApp_step184.exe
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\stringApp_step184\obj\Debug\stringApp_step184.pdb
