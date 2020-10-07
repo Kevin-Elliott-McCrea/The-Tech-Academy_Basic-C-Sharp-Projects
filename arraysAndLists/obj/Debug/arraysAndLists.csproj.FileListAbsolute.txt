@@ -1,0 +1,6 @@
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\arraysAndLists\bin\Debug\arraysAndLists.exe.config
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\arraysAndLists\bin\Debug\arraysAndLists.exe
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\arraysAndLists\bin\Debug\arraysAndLists.pdb
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\arraysAndLists\obj\Debug\arraysAndLists.csprojAssemblyReference.cache
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\arraysAndLists\obj\Debug\arraysAndLists.exe
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\arraysAndLists\obj\Debug\arraysAndLists.pdb
