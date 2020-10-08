@@ -1,0 +1,6 @@
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\Iteration_step192\bin\Debug\Iteration_step192.exe.config
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\Iteration_step192\bin\Debug\Iteration_step192.exe
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\Iteration_step192\bin\Debug\Iteration_step192.pdb
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\Iteration_step192\obj\Debug\Iteration_step192.csprojAssemblyReference.cache
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\Iteration_step192\obj\Debug\Iteration_step192.exe
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\Iteration_step192\obj\Debug\Iteration_step192.pdb

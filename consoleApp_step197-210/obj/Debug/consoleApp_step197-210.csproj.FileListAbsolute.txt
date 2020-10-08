@@ -1,0 +1,6 @@
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\consoleApp_step197-210\bin\Debug\consoleApp_step197-210.exe.config
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\consoleApp_step197-210\bin\Debug\consoleApp_step197-210.exe
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\consoleApp_step197-210\bin\Debug\consoleApp_step197-210.pdb
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\consoleApp_step197-210\obj\Debug\consoleApp_step197-210.csprojAssemblyReference.cache
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\consoleApp_step197-210\obj\Debug\consoleApp_step197-210.exe
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\consoleApp_step197-210\obj\Debug\consoleApp_step197-210.pdb
