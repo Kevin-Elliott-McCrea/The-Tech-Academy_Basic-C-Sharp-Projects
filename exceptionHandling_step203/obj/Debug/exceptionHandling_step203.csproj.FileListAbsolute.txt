@@ -1,0 +1,6 @@
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\exceptionHandling_step203\bin\Debug\exceptionHandling_step203.exe.config
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\exceptionHandling_step203\bin\Debug\exceptionHandling_step203.exe
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\exceptionHandling_step203\bin\Debug\exceptionHandling_step203.pdb
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\exceptionHandling_step203\obj\Debug\exceptionHandling_step203.csprojAssemblyReference.cache
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\exceptionHandling_step203\obj\Debug\exceptionHandling_step203.exe
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\exceptionHandling_step203\obj\Debug\exceptionHandling_step203.pdb
