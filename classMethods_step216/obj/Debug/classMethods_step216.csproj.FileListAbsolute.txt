@@ -1,0 +1,6 @@
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\classMethods_step216\bin\Debug\classMethods_step216.exe.config
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\classMethods_step216\bin\Debug\classMethods_step216.exe
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\classMethods_step216\bin\Debug\classMethods_step216.pdb
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\classMethods_step216\obj\Debug\classMethods_step216.csprojAssemblyReference.cache
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\classMethods_step216\obj\Debug\classMethods_step216.exe
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\classMethods_step216\obj\Debug\classMethods_step216.pdb
