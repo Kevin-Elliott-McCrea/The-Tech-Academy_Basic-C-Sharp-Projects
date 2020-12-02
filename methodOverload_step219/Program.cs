@@ -16,12 +16,9 @@ namespace classMethods_step216
             int userAns = Convert.ToInt32(Console.ReadLine());
             int ans1 = math1.numAdd(userAns);
 
-
             Console.WriteLine("What number would you like to be changed? (Pick any number that isn't zero)");
             decimal userAns2 = Convert.ToDecimal(Console.ReadLine());
             int ans2 = math1.numAdd(userAns2);
-
-            // This above function isn't working...
 
             Console.WriteLine("What number would you like to be changed? (Pick a whole number that isn't zero)");
             string userAns3 = Console.ReadLine();
