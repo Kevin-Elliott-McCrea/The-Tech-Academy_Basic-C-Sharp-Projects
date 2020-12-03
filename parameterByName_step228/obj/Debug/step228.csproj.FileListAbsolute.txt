@@ -1,0 +1,6 @@
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\step228_parameterByName\bin\Debug\step228.exe.config
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\step228_parameterByName\bin\Debug\step228.exe
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\step228_parameterByName\bin\Debug\step228.pdb
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\step228_parameterByName\obj\Debug\step228.csprojAssemblyReference.cache
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\step228_parameterByName\obj\Debug\step228.exe
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\step228_parameterByName\obj\Debug\step228.pdb
