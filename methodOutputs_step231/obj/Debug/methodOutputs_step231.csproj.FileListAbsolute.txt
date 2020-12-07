@@ -1,0 +1,6 @@
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\methodOutputs_step231\obj\Debug\methodOutputs_step231.csprojAssemblyReference.cache
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\methodOutputs_step231\bin\Debug\methodOutputs_step231.exe.config
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\methodOutputs_step231\bin\Debug\methodOutputs_step231.exe
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\methodOutputs_step231\bin\Debug\methodOutputs_step231.pdb
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\methodOutputs_step231\obj\Debug\methodOutputs_step231.exe
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\methodOutputs_step231\obj\Debug\methodOutputs_step231.pdb
