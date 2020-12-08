@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{29E9EEB4-4803-4484-85FA-129CB40B1F2B}</ProjectGuid>
+    <ProjectGuid>{7EB000E2-B6BA-4E5E-BAD3-5327CDB7929F}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>TwentyOne_step208</RootNamespace>
-    <AssemblyName>TwentyOne_step208</AssemblyName>
+    <RootNamespace>Inheritance_step236</RootNamespace>
+    <AssemblyName>Inheritance_step236</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,10 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Card.cs" />
-    <Compile Include="Game.cs" />
-    <Compile Include="TwentyOneGame.cs" />
-    <Compile Include="Deck.cs" />
+    <Compile Include="Employee.cs" />
+    <Compile Include="Person.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

@@ -1,0 +1,6 @@
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\Inheritance_step236\bin\Debug\Inheritance_step236.exe.config
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\Inheritance_step236\bin\Debug\Inheritance_step236.exe
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\Inheritance_step236\bin\Debug\Inheritance_step236.pdb
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\Inheritance_step236\obj\Debug\Inheritance_step236.csprojAssemblyReference.cache
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\Inheritance_step236\obj\Debug\Inheritance_step236.exe
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\Inheritance_step236\obj\Debug\Inheritance_step236.pdb
