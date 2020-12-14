@@ -1,0 +1,6 @@
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\abstractClasses_step244\bin\Debug\abstractClasses_step244.exe.config
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\abstractClasses_step244\bin\Debug\abstractClasses_step244.exe
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\abstractClasses_step244\bin\Debug\abstractClasses_step244.pdb
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\abstractClasses_step244\obj\Debug\abstractClasses_step244.csprojAssemblyReference.cache
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\abstractClasses_step244\obj\Debug\abstractClasses_step244.exe
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\abstractClasses_step244\obj\Debug\abstractClasses_step244.pdb

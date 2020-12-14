@@ -8,8 +8,13 @@ namespace TwentyOne_step208
 {
     public class TwentyOneGame : Game
     {
-        public void Play()
+        public override void Play()
         {
+        }
+        public override void ListPlayers()
+        {
+            Console.WriteLine("21 players:");
+            base.ListPlayers();
         }
     }
 }
