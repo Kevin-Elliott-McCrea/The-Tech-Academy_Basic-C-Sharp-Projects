@@ -16,6 +16,10 @@ namespace abstractClasses_step244
             Example.lastName = "Student";
 
             Example.SayName();
+
+            IQuittable Loser = new Employee();
+
+            Loser.Quit();
             Console.ReadLine();
         }
     }

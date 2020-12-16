@@ -16,5 +16,9 @@ namespace TwentyOne_step208
             Console.WriteLine("21 players:");
             base.ListPlayers();
         }
+        public void WalkAway(Player player)
+        {
+            throw new NotImplementedException();
+        }
     }
 }

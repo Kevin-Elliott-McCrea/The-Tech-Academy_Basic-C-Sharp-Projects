@@ -6,11 +6,17 @@ using System.Threading.Tasks;
 
 namespace abstractClasses_step244
 {
-    public class Employee : Person
+    public class Employee : Person, IQuittable
     {
         public override void SayName()
         {
             Console.WriteLine(firstName + " " + lastName);
+        }
+
+        public void Quit()
+        {
+            int duh = 1 + 1;
+            Console.WriteLine("Duh is equal to: " + duh);
         }
     }
 }
