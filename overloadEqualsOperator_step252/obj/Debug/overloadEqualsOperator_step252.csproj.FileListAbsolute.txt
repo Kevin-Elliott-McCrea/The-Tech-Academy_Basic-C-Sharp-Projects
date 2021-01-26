@@ -1,0 +1,6 @@
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\overloadEqualsOperator_step252\bin\Debug\overloadEqualsOperator_step252.exe.config
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\overloadEqualsOperator_step252\bin\Debug\overloadEqualsOperator_step252.exe
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\overloadEqualsOperator_step252\bin\Debug\overloadEqualsOperator_step252.pdb
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\overloadEqualsOperator_step252\obj\Debug\overloadEqualsOperator_step252.csprojAssemblyReference.cache
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\overloadEqualsOperator_step252\obj\Debug\overloadEqualsOperator_step252.exe
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\overloadEqualsOperator_step252\obj\Debug\overloadEqualsOperator_step252.pdb
