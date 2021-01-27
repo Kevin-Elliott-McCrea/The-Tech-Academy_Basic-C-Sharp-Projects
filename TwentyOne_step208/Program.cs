@@ -10,12 +10,7 @@ namespace TwentyOne_step208
     {
         static void Main(string[] args)
         {
-            Game game = new TwentyOneGame();
-            game.Players = new List<Player>();
-            Player player = new Player();
-            player.Name = "Jesse";
-            game = game + player;
-            game = game - player;
+            Player<Card> player = new Player<Card>();
 
             Deck deck = new Deck();
             deck.Shuffle(3);
@@ -28,16 +23,5 @@ namespace TwentyOne_step208
             Console.WriteLine(deck.Cards.Count);
             Console.ReadLine();
         }
-
-        
-
-        //public static Deck Shuffle(Deck deck, int times)
-        //{
-        //    for(int i = 0; i < times; i++)
-        //    {
-        //        deck = Shuffle(deck);
-        //    }
-        //    return deck;
-        //}
     }
 }

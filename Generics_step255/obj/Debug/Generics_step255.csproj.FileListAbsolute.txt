@@ -1,0 +1,6 @@
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\Generics_step255\bin\Debug\Generics_step255.exe.config
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\Generics_step255\bin\Debug\Generics_step255.exe
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\Generics_step255\bin\Debug\Generics_step255.pdb
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\Generics_step255\obj\Debug\Generics_step255.csprojAssemblyReference.cache
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\Generics_step255\obj\Debug\Generics_step255.exe
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\Generics_step255\obj\Debug\Generics_step255.pdb
