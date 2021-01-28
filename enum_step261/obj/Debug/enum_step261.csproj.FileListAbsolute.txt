@@ -1,0 +1,6 @@
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\enum_step261\bin\Debug\enum_step261.exe.config
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\enum_step261\bin\Debug\enum_step261.exe
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\enum_step261\bin\Debug\enum_step261.pdb
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\enum_step261\obj\Debug\enum_step261.csprojAssemblyReference.cache
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\enum_step261\obj\Debug\enum_step261.exe
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\enum_step261\obj\Debug\enum_step261.pdb
