@@ -1,0 +1,6 @@
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\structs_step267\bin\Debug\structs_step267.exe.config
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\structs_step267\bin\Debug\structs_step267.exe
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\structs_step267\bin\Debug\structs_step267.pdb
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\structs_step267\obj\Debug\structs_step267.csprojAssemblyReference.cache
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\structs_step267\obj\Debug\structs_step267.exe
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\structs_step267\obj\Debug\structs_step267.pdb

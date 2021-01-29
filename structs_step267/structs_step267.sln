@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "structs_step267", "structs_step267.csproj", "{BFE71C29-BD52-479E-80C5-090088D5C02A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFE71C29-BD52-479E-80C5-090088D5C02A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFE71C29-BD52-479E-80C5-090088D5C02A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFE71C29-BD52-479E-80C5-090088D5C02A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFE71C29-BD52-479E-80C5-090088D5C02A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3AD8BBB5-497B-4BA6-9D0B-D7B1DA31A26A}
+	EndGlobalSection
+EndGlobal
