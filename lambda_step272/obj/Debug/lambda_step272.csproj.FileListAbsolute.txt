@@ -1,0 +1,6 @@
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\lambda_step272\bin\Debug\lambda_step272.exe.config
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\lambda_step272\bin\Debug\lambda_step272.exe
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\lambda_step272\bin\Debug\lambda_step272.pdb
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\lambda_step272\obj\Debug\lambda_step272.csprojAssemblyReference.cache
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\lambda_step272\obj\Debug\lambda_step272.exe
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\lambda_step272\obj\Debug\lambda_step272.pdb
