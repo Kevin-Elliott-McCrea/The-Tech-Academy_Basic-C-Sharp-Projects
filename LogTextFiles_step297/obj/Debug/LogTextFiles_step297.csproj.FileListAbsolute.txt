@@ -1,0 +1,6 @@
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\LogTextFiles_step297\bin\Debug\LogTextFiles_step297.exe.config
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\LogTextFiles_step297\bin\Debug\LogTextFiles_step297.exe
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\LogTextFiles_step297\bin\Debug\LogTextFiles_step297.pdb
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\LogTextFiles_step297\obj\Debug\LogTextFiles_step297.csprojAssemblyReference.cache
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\LogTextFiles_step297\obj\Debug\LogTextFiles_step297.exe
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\LogTextFiles_step297\obj\Debug\LogTextFiles_step297.pdb
