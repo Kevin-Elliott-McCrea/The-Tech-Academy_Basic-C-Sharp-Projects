@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{29E9EEB4-4803-4484-85FA-129CB40B1F2B}</ProjectGuid>
+    <ProjectGuid>{CD7DE35A-E08F-400B-9A72-B199B29B5582}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>TwentyOne_step208</RootNamespace>
-    <AssemblyName>TwentyOne_step208</AssemblyName>
+    <RootNamespace>ExtraTools_step310</RootNamespace>
+    <AssemblyName>ExtraTools_step310</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -33,9 +33,6 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="ClassLibrary1">
-      <HintPath>ClassLibrary1\bin\Debug\ClassLibrary1.dll</HintPath>
-    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -48,6 +45,7 @@
   <ItemGroup>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TestClass.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

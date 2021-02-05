@@ -1,0 +1,6 @@
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\ExtraTools_step310\bin\Debug\ExtraTools_step310.exe.config
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\ExtraTools_step310\bin\Debug\ExtraTools_step310.exe
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\ExtraTools_step310\bin\Debug\ExtraTools_step310.pdb
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\ExtraTools_step310\obj\Debug\ExtraTools_step310.csprojAssemblyReference.cache
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\ExtraTools_step310\obj\Debug\ExtraTools_step310.exe
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\ExtraTools_step310\obj\Debug\ExtraTools_step310.pdb
