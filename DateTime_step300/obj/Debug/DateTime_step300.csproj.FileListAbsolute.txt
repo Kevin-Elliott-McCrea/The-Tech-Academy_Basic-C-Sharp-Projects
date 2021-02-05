@@ -1,0 +1,6 @@
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\DateTime_step300\bin\Debug\DateTime_step300.exe.config
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\DateTime_step300\bin\Debug\DateTime_step300.exe
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\DateTime_step300\bin\Debug\DateTime_step300.pdb
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\DateTime_step300\obj\Debug\DateTime_step300.csprojAssemblyReference.cache
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\DateTime_step300\obj\Debug\DateTime_step300.exe
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\DateTime_step300\obj\Debug\DateTime_step300.pdb

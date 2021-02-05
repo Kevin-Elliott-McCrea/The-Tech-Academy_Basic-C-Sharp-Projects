@@ -20,6 +20,7 @@ namespace TwentyOne_step208
             Console.WriteLine(card);
             using (StreamWriter file = new StreamWriter(@"C:\Test\log.txt", true))
             {
+                file.WriteLine(DateTime.Now);
                 file.WriteLine(card);
             }
                 Deck.Cards.RemoveAt(0);
