@@ -1,0 +1,6 @@
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\Exceptions_step314\bin\Debug\Exceptions_step314.exe.config
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\Exceptions_step314\bin\Debug\Exceptions_step314.exe
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\Exceptions_step314\bin\Debug\Exceptions_step314.pdb
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\Exceptions_step314\obj\Debug\Exceptions_step314.csprojAssemblyReference.cache
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\Exceptions_step314\obj\Debug\Exceptions_step314.exe
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\Exceptions_step314\obj\Debug\Exceptions_step314.pdb
