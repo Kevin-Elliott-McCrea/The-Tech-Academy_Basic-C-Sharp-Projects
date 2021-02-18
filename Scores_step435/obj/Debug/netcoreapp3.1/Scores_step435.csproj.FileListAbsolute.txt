@@ -1,0 +1,11 @@
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\Scores_step435\bin\Debug\netcoreapp3.1\Scores_step435.exe
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\Scores_step435\bin\Debug\netcoreapp3.1\Scores_step435.deps.json
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\Scores_step435\bin\Debug\netcoreapp3.1\Scores_step435.runtimeconfig.json
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\Scores_step435\bin\Debug\netcoreapp3.1\Scores_step435.runtimeconfig.dev.json
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\Scores_step435\bin\Debug\netcoreapp3.1\Scores_step435.dll
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\Scores_step435\bin\Debug\netcoreapp3.1\Scores_step435.pdb
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\Scores_step435\obj\Debug\netcoreapp3.1\Scores_step435.csprojAssemblyReference.cache
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\Scores_step435\obj\Debug\netcoreapp3.1\Scores_step435.AssemblyInfoInputs.cache
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\Scores_step435\obj\Debug\netcoreapp3.1\Scores_step435.AssemblyInfo.cs
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\Scores_step435\obj\Debug\netcoreapp3.1\Scores_step435.dll
+C:\Users\kleib_000\Desktop\GitHub\Basic-C-Sharp-Projects\Scores_step435\obj\Debug\netcoreapp3.1\Scores_step435.pdb
