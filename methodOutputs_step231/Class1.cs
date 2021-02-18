@@ -27,12 +27,11 @@ namespace methodOutputs_step231
             z = 5.5;
             Console.WriteLine(z);
         }
+    }
 
 
-        public static int NoUseMe(int T)
-        {
-            T = 10;
-            return T;
-        }
+    public static class NoUseMe
+    {
+        public static int T = 10;
     }
 }
